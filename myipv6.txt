@@ -1,4 +1,4 @@
-📺央视频道,#genre#
+央视频道,#genre#
 CCTV-1,http://111.11.123.42:6610/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8?livemode=1
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -45,7 +45,7 @@ CCTV-15,http://111.11.123.42:6610/030000001000/G_CCTV-15/G_CCTV-15.m3u8?livemode
 CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
-📡卫视频道,#genre#
+卫视频道,#genre#
 广东卫视,http://111.11.123.42:6610/030000001000/G_GUANGDONG/G_GUANGDONG.m3u8?livemode=1
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -114,15 +114,14 @@ CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 新疆卫视,http://111.11.123.42:6610/030000001000/G_XINJIANG/G_XINJIANG.m3u8?livemode=1
 云南卫视,http://111.11.123.42:6610/030000001000/G_YUNNAN/G_YUNNAN.m3u8?livemode=1
 
-☘️广东频道,#genre#
+广东频道,#genre#
 广东卫视,http://111.11.123.42:6610/030000001000/G_GUANGDONG/G_GUANGDONG.m3u8?livemode=1
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://111.11.123.42:6610/030000001000/G_SHENZHEN/G_SHENZHEN.m3u8?livemode=1
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-
-☘️湖南频道,#genre#
+湖南频道,#genre#
 湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -130,30 +129,7 @@ CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
-☘️天津频道,#genre#
+天津频道,#genre#
 天津卫视,http://111.11.123.42:6610/030000001000/TJWS/TJWS.m3u8?livemode=1
 天津卫视,http://116.128.242.83:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-
-☘️新疆频道,#genre#
-新疆卫视,http://111.11.123.42:6610/030000001000/G_XINJIANG/G_XINJIANG.m3u8?livemode=1
-
-🏀体育频道,#genre#
-CCTV-5,http://111.11.123.42:6610/030000001000/CCTV-5/CCTV-5.m3u8?livemode=1
-CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-
-🪁动画频道,#genre#
-金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-
-🎮游戏频道,#genre#
-游戏风云,http://xingwei.online/mg2449016327.php?id=623674815
-
-🎵音乐频道,#genre#
-CCTV-15,http://111.11.123.42:6610/030000001000/G_CCTV-15/G_CCTV-15.m3u8?livemode=1
-CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-🏛经典剧场,#genre#
